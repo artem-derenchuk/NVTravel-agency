@@ -1,5 +1,6 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.repo;
 
+import com.aderenchuk.enter.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

@@ -1,4 +1,4 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.entity;
 
 
 import lombok.*;
