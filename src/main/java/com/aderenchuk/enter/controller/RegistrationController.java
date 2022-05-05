@@ -1,5 +1,7 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.controller;
 
+import com.aderenchuk.enter.entity.User;
+import com.aderenchuk.enter.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Controller;

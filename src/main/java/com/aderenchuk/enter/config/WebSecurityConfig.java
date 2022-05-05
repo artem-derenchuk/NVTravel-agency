@@ -1,5 +1,6 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.config;
 
+import com.aderenchuk.enter.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

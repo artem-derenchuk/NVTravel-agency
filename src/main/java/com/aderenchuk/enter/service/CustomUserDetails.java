@@ -1,5 +1,6 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.service;
 
+import com.aderenchuk.enter.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

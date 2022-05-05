@@ -1,5 +1,7 @@
-package com.aderenchuk.enter;
+package com.aderenchuk.enter.service;
 
+import com.aderenchuk.enter.repo.UserRepository;
+import com.aderenchuk.enter.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
